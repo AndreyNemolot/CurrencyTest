@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AccountTest</string>
+    <string name="valid_thru_text">VALID THRU</string>
+    <string name="your_balance">Your balance</string>
+    <string name="pounds_sign">£</string>
+    <string name="dollar_sign">$</string>
+    <string name="history">History</string>
+    <string name="change_currency">Change currency</string>
+    <string name="no_internet">No internet connection</string>
+
+
+</resources>
